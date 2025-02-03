@@ -48,3 +48,5 @@ for (let product of products) {
 let orders = ["Bag End", "Rivendell", "Moria", "Gondor", "Mount Doom"];
 orders.forEach(order => console.log(`Ring passed through: ${order}`));
 
+
+
