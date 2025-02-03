@@ -43,3 +43,8 @@ for (let product of products) {
     console.log(`Item available in Rivendell: ${product}`);
 }
 
+// Task 7: forEach() Method - Order Processing
+// The One Ring must be tracked at every stage of its journey
+let orders = ["Bag End", "Rivendell", "Moria", "Gondor", "Mount Doom"];
+orders.forEach(order => console.log(`Ring passed through: ${order}`));
+
